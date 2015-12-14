@@ -1,0 +1,18 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+canvas {
+    width: 840px;
+    height: 576px;
+    border: 1px solid #ccc;
+    cursor: none;
+}
+
+#score {
+    font-family: Arial;
+    font-size: 18pt;
+    margin: 16px 0;
+}
